@@ -7,8 +7,8 @@ buildscript {
         targetSdkVersion = 28
 
         // App dependencies
-        androidGradleVersion = '3.2.1'
-        kotlinVersion = '1.3.0'
+        androidGradleVersion = '3.3.2'
+        kotlinVersion = '1.3.21'
 
         junit = "junit:junit:4.12"
         autoValue ="com.google.auto.value:auto-value:1.3"
